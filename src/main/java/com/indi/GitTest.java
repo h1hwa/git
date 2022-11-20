@@ -7,7 +7,7 @@ public class GitTest {
         System.out.println("hello git2!");
         System.out.println("hello hot-fix!");
         System.out.println("hello master!");
-        System.out.println("hello hot-fixtest!");
         System.out.println("hello push!");
+        System.out.println("hello pull!");
     }
 }
